@@ -63,4 +63,30 @@
                 .icon-text{
                     text-align: justify; margin-right: 30px; padding: 35px 20px 35px 20px;
                 }
-
+        .update{
+            text-align: center; margin-top: 100px;
+}
+                .water{
+                    margin-top: 30px; margin-right: 22px; margin-left: 22px;
+                }
+                .water1{
+                    margin: 0px 120px 0 120px; display: flex;
+                }
+                .last{
+                    background-color: #e2e9d6; padding: 60px 20px 60px 20px; margin: 80px 180px 30px 180px; display: flex;
+                }
+                .email{
+                    color: rgba(60, 92, 0, 0.301); padding: 5px 0px 5px 3px; padding-right: 250px; background-color: #c0cfb6; margin-left: 250px;
+                }
+                .subs{
+                    background-color: #37830b; color: white;
+ padding: 5px;                }
+        .footer{
+            background-color: #275e07e8; padding-bottom: 50px;
+        }
+                .text{
+                  padding-top: 50px;  text-align: center; color: white; font-family: Consolas;
+                } 
+        .link{
+            text-decoration: none; margin-left: 48%; background-color: #cbe6cb; color: #172c09; border: 1px solid black; padding: 10px; margin-top: 100px;
+        }
